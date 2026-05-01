@@ -1,0 +1,72 @@
+h1{
+   
+   matg
+   color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(144, 45, 45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+}
+
+#bg{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right:100px ;
+    padding-bottom: 50px;
+    content-visibility: 100px;
+    
+    background-color:#1A202C;
+    border-radius: 20px;
+}
+#input{
+border-radius: 10px;
+color: black;
+height: 50px;
+text-transform: capitalize;
+}
+#btn{
+    border-radius:  10px;
+    margin-left: 5px;
+   font-size:medium;
+   height: 52px;
+   cursor: pointer;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: azure;
+    text-transform: capitalize;
+    
+}
+
+
+.task{
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(182, 176, 176,0.5);
+  
+  padding: 10px;
+}
+
+.task button{
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor:pointer;
+}
+#list{
+    text-align: left;
+    list-style-type:none;
+    padding-left: 20px;
+}
