@@ -26,6 +26,7 @@ In the above demo, you can see a clean user interface designed with a red backgr
 Users can type their tasks into the input box, and each task will be added below in ascending order. Tasks can be added either by clicking the Task button or by pressing the Enter key, making the application more user-friendly and efficient.
 
 https://github.com/user-attachments/assets/b96946dd-b89b-4516-a023-733f6a08d3d9
+
 The input field automatically formats the text with the first letter capitalized, improving readability. Each task is displayed with a dedicated delete (X) button, allowing users to remove completed tasks instantly. After deletion, the remaining tasks are automatically updated and displayed correctly.
 
 This project is built using HTML, CSS, and JavaScript, focusing on simplicity, usability, and clean design. Future updates will include additional features and improvements to enhance functionality.
